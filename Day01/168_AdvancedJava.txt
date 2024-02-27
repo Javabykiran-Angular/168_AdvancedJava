@@ -1,0 +1,87 @@
+			Welcome To Advanced Java Module
+				  Sumit Raokhande
+
+- B.E.Electronics, KBP satara
+- M.Tech Electronics, Walchand College Sangli
+- C-Dac Wimc , Sunbeam pune
+- worked as Mobile Application developer at tivre business solution
+- worked on J2ME,Symbian,Windows Mobile,Reaserach Motion
+- Worked as Android developer at veetron 
+- Worked as JDE Developer of Oracle Product
+- Worked as OpenSDK developer
+- work as angular developer
+- work on google cloud & docker
+
+
+
+- mon to sat daily 
+- daily 1.30 min session avg  druration it may be vary depends on the depend 
+- Session time is 11 am sharp 
+- Two way communication 
+	response from ur side 
+- all code & notes will given on git hub repo expect images 
+- Basics of HTML,CSS,Mysql(basic+)
+- OOPS Concept => Practically u have to know
+- Daily Practice is required 
+- Duration 45 Hrs Avg time 
+- No Any dedicated faculty for doubt solving => 
+ 1 Technical Support 
+ 2 Sumit Sir 
+- We allocated One session Interview Question discussion 
+
+- We take JDBC Connectivity 
+- Servlet Introduction - JSP 
+- Hibernate
+- Spring Core => AOP 
+- Spring MVC 
+- Spring Boot => Restful API
+
+
+
+MySQL 
+
+1 Create Table 
+	create table employee(id int ,name varChar(150),address varchar(150)); 
+2 Data save 
+	insert into employee(name,address) value("name","address");
+3 select data
+	select * from employee
+4 update data 
+	update employee set name="..." , address="..." where  id=9;
+5 delete data 
+		delete from employee where id=9;
+6 particular record to get from db 
+	select * from employee where id=2
+	
+	1  create database 168 
+	
+	Create Table 
+		create table employee(empid int primary Key auto_increment,ename varChar(20),job varChar(20));
+	insert data into table 
+		insert into employee values(1,"Sumit",'DevOps');
+		insert into employee(ename,job) values("Sumit",'DevOps');
+	Update data into table 
+		update employee set ename="sumit123" job="..." where empid=1;
+	delete data into table 
+		delete from employee where empid=1
+	Fetch the data from table 
+		select * from employee;
+		select empid,ename from employee;
+	
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
