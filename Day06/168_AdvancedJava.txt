@@ -1,0 +1,30 @@
+Last Lecture Agenda
+1 Modular Approach
+2 Implementation of Dao
+	- Data Access Layer 
+	- BL 
+
+
+summary & Interview Questions
+1 Explain Modular Approach
+2 How to Implementation of Dao 
+
+Today's Lecture Agenda
+1 Task Checking 
+
+summary & Interview Questions
+NA This Session
+
+
+
+
+
+
+
+
+
+
+
+
+
+
