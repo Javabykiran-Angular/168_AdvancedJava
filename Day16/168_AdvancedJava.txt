@@ -1,0 +1,64 @@
+Last Lecture Agenda
+1 Hibernate Configuration
+2 Hibernate functions
+
+	Configuration config=new Configuration();
+	config.configure("hibernate.cfg.xml");;
+	config.addannotatedClass(Song.class);
+	Sessionfactory factory= config.buildSessionFactory();
+	
+	Session session= factory.openSession();
+	session.beginTranscation();
+	
+	Song song= session.get(Song.class,5);
+	
+	song.setname("...");
+	...
+	
+	//session.merge(song);
+	session.remove(song);
+	
+	Song s=new Song();
+	....
+	
+	//session.persit(s);
+	session.getTranscation().commit();
+	session.close();
+	
+	
+	CriteriaBuilder cb= session.getCriteriaBuilder(); 
+	
+		
+	
+	
+
+
+summary & Interview Questions
+1 Which configuration we have to does for hibernate?
+2 Tell the Hibernate inbuilt functions
+
+
+Today's Lecture Agenda
+1 HQL Lang.
+	- Hibernate Query Lang 
+	
+2 GetParticular Records
+3 getAllRecord  
+4 Update Records
+5 Delete Records
+
+summary & Interview Questions
+1 What is HQL Lang?
+2 Explain crud Operation in HQL 
+
+
+
+
+
+
+
+
+
+
+
+
