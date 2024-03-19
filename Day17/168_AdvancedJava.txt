@@ -1,0 +1,56 @@
+Last Lecture Agenda
+1 HQL Lang.
+	- Hibernate Query Lang 
+	
+2 GetParticular Records
+3 getAllRecord  
+4 Update Records
+
+	Configure config=new Configure();
+	config.configure("hibernate.cfg.xml");
+	config.addannotatedclass(...);
+	
+	Sessionfactory factory= config.buildSessionFactory();
+		
+		Session session= factory.openSession();
+		session.beginTransaction();
+		
+		String hqlquery="update Song set name=:myname, artist=:mysingner where id=:myid";
+		
+		session.createQuery()
+	
+
+5 Delete Records
+
+summary & Interview Questions
+1 What is HQL Lang?
+2 Explain crud Operation in HQL 
+
+Today's Lecture Agenda
+1 GetParticular Records
+2 getAllRecord  
+3 Hibernate Mapping
+	- one to one 
+	- one to many 
+	- many to one 
+	- many to many 
+4 One to one mapping => Pending 
+5 Many to one Mapping => Pending
+
+
+summary & Interview Questions
+1 Explain One to one mapping?
+2 Explain Many to one Mapping?
+
+
+
+
+
+
+
+
+
+
+
+
+
