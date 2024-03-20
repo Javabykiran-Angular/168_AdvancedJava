@@ -1,0 +1,35 @@
+Last Lecture Agenda
+1 GetParticular Records
+2 getAllRecord  
+3 Hibernate Mapping
+	- one to one 
+	- one to many 
+	- many to one 
+	- many to many 
+
+summary & Interview Questions
+1 What is Mapping?
+2 Explain crud Operation in HQL 
+
+Today's Lecture Agenda
+1 One to one mapping => 
+2 Many to one Mapping => 
+3 one to Many 
+
+
+summary & Interview Questions
+1 Explain One to one mapping?
+2 Explain Many to one Mapping?
+
+
+
+
+
+
+
+
+
+
+
+
+
