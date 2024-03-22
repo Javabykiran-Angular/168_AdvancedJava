@@ -1,0 +1,27 @@
+Last Lecture Agenda
+1 One to one mapping 
+2 Many to one Mapping 
+3 one to Many 
+
+
+summary & Interview Questions
+1 Explain One to one mapping?
+2 Explain Many to one Mapping?
+
+Today's Lecture Agenda
+1 Many to many mapping 
+2 Checking Task 
+
+summary & Interview Questions
+1 Explain Many to Many Mapping?
+
+
+
+
+
+
+
+
+
+
+
