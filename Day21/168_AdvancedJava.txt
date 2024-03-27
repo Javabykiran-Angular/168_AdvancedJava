@@ -1,0 +1,54 @@
+Last Lecture Agenda
+1 Test 1 
+
+summary & Interview Questions
+NA for This Session
+
+Today's Lecture Agenda
+1 What is Maven?
+What is Maven?
+	- Maven is Project Management tool 
+	- It is project Management Tool
+		- It is Build Tool
+		- add required jars & their dependencies in project classpath & deployment assembly
+		- compilation of the project.
+		- testing & packaing project deployment assembly.
+		- Reporting
+	- Meaning of Maven is "Accumulator of knowledge". 
+		-Maven is in yiddish language word.
+		
+	- Maven is automation & management tool developed by Apache s/w foundation. It is based on POM (project Object Model)=> config of project
+		- basic Config : java version, spring version,maven version etc...
+		- dependencies: third party jar files to be added in project.
+		- packaging info: jar or war, name, groupId/artifactId
+		- build settings.
+		- repositories: collection of jars.
+		
+	- Maven can build project into desired output such as .jar, .war etc
+	- It is mostly used for java based project.
+	- Maven is written in java.
+	
+	Java Project Structure
+	- Source code
+	- Test code
+	- resource (assets,files,directories)
+	- dependances/Library
+	- Configuration
+	- Task Runner (build,test,Run)
+	- Reporting
+	
+2 How Maven Works 
+
+
+summary & Interview Questions
+1 What is Maven 
+2 Explain How Maven Works 
+
+
+
+
+
+
+
+
+
