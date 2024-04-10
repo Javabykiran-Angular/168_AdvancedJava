@@ -1,0 +1,68 @@
+Last Lecture Agenda
+1 Request Mapping 
+
+	@RestController
+	class mycontroller{
+		
+		@RequestMapping("/first")
+		public myfristApi(){
+			Syso("...")
+		}
+		
+		
+		@GetMapping("/first")
+		public myfristApi(){
+			Syso("...")
+		}
+		
+		@PostMapping("/first")
+		public String myfristApi(){
+			Syso("...")
+			return "..."
+		}
+		
+		@PutMapping("/first")
+		public .. myfristApi(){
+			Syso("...")
+		}
+		
+		@DeleteMapping("/first")
+		public myfristApi(){
+			Syso("...")
+		}
+		
+		@RequestMapping(value="/first1",method=RequestMethod.post)
+		public myfrist1Api(){
+			Syso("...")
+		}
+		
+		
+	}
+	
+	api Testing
+	postman => tool/s/w 
+	http:localhost:8080/first
+
+2 GetMapping
+3 PostMapping
+4 put Mapping
+5 delete mapping
+6 Path Variable => Pending 
+7 Request Param => Pending
+
+summary & Interview Questions
+1 Which parameter is used in request mapping
+2 What is runner main class in spring boot what annotation you use in it?
+
+
+Today's Lecture Agenda
+1 Path Variable 
+2 Request Param 
+3 Entity Mapping to api
+4 RequestBody
+
+
+summary & Interview Questions
+1 What is runner main class in spring boot what annotation you use in it?
+
+
