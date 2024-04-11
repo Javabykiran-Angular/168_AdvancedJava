@@ -1,0 +1,59 @@
+Last Lecture Agenda
+1 Path Variable 
+@GetMapping("/getdata/{id}")
+	public String getparticulardata(@PathVariable int id){
+	...
+	...
+	}
+	
+	http://localhost:8080/getdata/9
+	
+	@GetMapping("/getdata")
+	public String getparticulardata(@RequestParam("id") int id){
+	...
+	...
+	}
+	
+		http://localhost:8080/getdata
+		param => tab 
+		id = 8
+		
+	class Person{
+		int id;
+		String name;
+		
+	}
+	
+	@PostMapping("/savedata")
+	public String savedata(@RequestBody Person p){
+	
+	}
+	
+	post=>	http://localhost:8080/savedata
+	
+	body => tab 
+	raw => json 
+	{
+		"id":"9",
+		"name":"..."
+	}
+		
+	
+2 Request Param 
+3 Entity Mapping to api
+4 RequestBody
+
+
+summary & Interview Questions
+1 What is runner main class in spring boot what annotation you use in it?
+
+Today's Lecture Agenda
+1 Spring Boot With database
+2 Industry Curd Operations
+
+
+summary & Interview Questions
+1 Explain the Steps to store data into database
+2 Where to set database configuration in spring boot 
+3 How to do curd operations in spring boot 
+
