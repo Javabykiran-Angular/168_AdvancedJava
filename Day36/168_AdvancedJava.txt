@@ -1,0 +1,18 @@
+Last Lecture Agenda
+1 MVC with db
+2 Integrate Bootstrap
+bootstrap Online Link
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+summary & Interview Questions
+1 How to integrate MVC with DB
+2 How to integrate Bootstrap in DB?
+
+Today's Lecture Agenda
+1 Continue MVC 
+
+summary & Interview Questions
+1 How to integrate MVC with DB
+
+
+
